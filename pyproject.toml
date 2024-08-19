@@ -10,6 +10,9 @@ python = ">=3.10,<4.0"
 numpy = "^2.1.0"
 pandas = "^2.2.2"
 yfinance = "^0.2.41"
+matplotlib = "^3.9.2"
+plotly = "^5.23.0"
+chart-studio = "^1.1.0"
 
 
 [tool.poetry.group.dev.dependencies]
